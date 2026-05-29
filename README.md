@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-orange)
-![Pathfinding](https://img.shields.io/badge/Pathfinding-AStar-green)
+![Pathfinding](https://img.shields.io/badge/Pathfinding-AStar-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ### AI-Powered Route Planning using the A* Search Algorithm
