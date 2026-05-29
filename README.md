@@ -11,8 +11,6 @@
 
 Efficient pathfinding and route optimization through heuristic search techniques and graph-based navigation.
 
-<img src="images/designed_map.PNG" width="700">
-
 </div>
 
 ---
