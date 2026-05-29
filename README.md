@@ -11,7 +11,7 @@
 
 Efficient pathfinding and route optimization through heuristic search techniques and graph-based navigation.
 
-<img src="images/designed_map.png" width="700">
+<img src="images/designed_map.PNG" width="700">
 
 </div>
 
@@ -89,7 +89,7 @@ A-Star-Search-Route-Finder/
 
 The custom address map used in this project represents real-world route planning concepts through interconnected locations and weighted paths.
 
-![Designed Map](images/designed_map.png)
+![Designed Map](images/designed_map.PNG)
 
 ---
 
