@@ -209,7 +209,6 @@ This makes it one of the most important algorithms in Artificial Intelligence an
 
 # 👨‍💻 Author
 
-<div align="center">
 
 ### Md. Tausif Uddin
 
@@ -218,7 +217,6 @@ University of Asia Pacific (UAP)
 
 GitHub: https://github.com/tausif112
 
-</div>
 
 ---
 
