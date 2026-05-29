@@ -3,9 +3,9 @@
 # ⭐ A* Search Route Finder
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Algorithm](https://img.shields.io/badge/Algorithm-A*-Search-green)
-![AI](https://img.shields.io/badge/AI-Pathfinding-orange)
-![Status](https://img.shields.io/badge/Project-Completed-success)
+![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-orange)
+![Pathfinding](https://img.shields.io/badge/Pathfinding-AStar-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ### AI-Powered Route Planning using the A* Search Algorithm
 
