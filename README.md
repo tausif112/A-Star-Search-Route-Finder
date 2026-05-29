@@ -93,11 +93,14 @@ The custom address map used in this project represents real-world route planning
 
 # 🌳 A* Search Tree Diagram
 
-The search process can be visualized through the A* Search Tree Diagram.
+<div align="center">
 
-📄 **Diagram File:**
+<img src="images/a_star_tree_diagram.png" width="800">
+
+</div>
+
+📄 **Editable Draw.io Source:**  
 [View A* Search Diagram](diagrams/a_star_tree_diagram.drawio)
-
 ---
 
 # 🧠 Understanding A* Search
