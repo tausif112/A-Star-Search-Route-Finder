@@ -211,14 +211,12 @@ This makes it one of the most important algorithms in Artificial Intelligence an
 # 👨‍💻 Author
 
 
-### Md. Tausif Uddin
+### Md Tausif Uddin
 
-Bachelor of Science in Computer Science & Engineering (CSE)
-
+Department of Computer Science & Engineering (CSE)  
 University of Asia Pacific (UAP)
 
 GitHub: https://github.com/tausif112
-
 
 ---
 
